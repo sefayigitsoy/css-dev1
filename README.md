@@ -4,10 +4,10 @@ Bu repo, Kodluyoruz Front-End Eğitiminde oluşturduğum CSS ödev reposudur. İ
 
 # Ülkemizin Bölgelerini Tanıyalım
 ## Ana Sayfa
-![AnaSayfa](img/Screenshot_1.png)
+![AnaSayfa](images/Screenshot_1.png)
 ### Diğer Sayfalar
-![1](img/Screenshot_2.png)
-![2](img/Screenshot_3.png)
+![1](images/Screenshot_2.png)
+![2](images/Screenshot_3.png)
 
 ## Kurulum
 
